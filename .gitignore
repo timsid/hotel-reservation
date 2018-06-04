@@ -1,0 +1,12 @@
+#file.pyc
+
+hotel.pyc
+customer.pyc
+reservation.pyc
+notification.pyc
+tester.pyc
+
+#folther
+
+.idea
+venv
